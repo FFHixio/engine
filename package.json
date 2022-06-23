@@ -47,11 +47,14 @@
     "karma-chrome-launcher": "^3.1.0", 
     "karma-mocha": "^2.0.1", 
     "karma-spec-reporter": "0.0.32", 
+ snyk-fix-e2f4c057d52bd9125a9889aaf572ce89
+    "mocha": "^9.1.2", 
+
  snyk-fix-c4f9aeee52f23f26ce00a9a246ba2ae6
     "mocha": "^8.3.0", 
 
     "mocha": "^8.1.0", 
- master
+  master
     "@playcanvas/eslint-config": "^1.0.6", 
     "@playcanvas/jsdoc-template": "^1.0.12", 
     "preprocessor": "^1.4.0", 
