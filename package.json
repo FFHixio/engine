@@ -41,8 +41,13 @@
     "eslint": "^7.29.0", 
  master
     "google-closure-compiler": "20200614.0.0", 
+snyk-fix-a11169280e2ddfc268ecb25861a818b7
+    "http-server": "^0.12.3", 
+    "jsdoc": "^3.6.8", 
+
     "http-server": "^0.13.0", 
     "jsdoc": "^3.6.4", 
+ master
     "karma": "^5.1.0", 
     "karma-chrome-launcher": "^3.1.0", 
     "karma-mocha": "^2.0.1", 
