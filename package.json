@@ -35,7 +35,11 @@
   ], 
   "devDependencies": {
     "chai": "^4.2.0", 
+ snyk-fix-c4f9aeee52f23f26ce00a9a246ba2ae6
+    "eslint": "^7.16.0", 
+
     "eslint": "^7.29.0", 
+ master
     "google-closure-compiler": "20200614.0.0", 
     "http-server": "^0.13.0", 
     "jsdoc": "^3.6.4", 
@@ -43,7 +47,11 @@
     "karma-chrome-launcher": "^3.1.0", 
     "karma-mocha": "^2.0.1", 
     "karma-spec-reporter": "0.0.32", 
+ snyk-fix-c4f9aeee52f23f26ce00a9a246ba2ae6
+    "mocha": "^8.3.0", 
+
     "mocha": "^8.1.0", 
+ master
     "@playcanvas/eslint-config": "^1.0.6", 
     "@playcanvas/jsdoc-template": "^1.0.12", 
     "preprocessor": "^1.4.0", 
